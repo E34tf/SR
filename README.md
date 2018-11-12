@@ -25,3 +25,14 @@
 - [ ] Stworzenie reprezentacji profilu.
 - [ ] Komunikacja pomiędzy docker'ami a programem.
 - [ ] Komunikacja pomiędzy *Recommendation Engine* a *Profile Server*
+
+
+### Reprezentacja profilu
+Pola danych, które warto przechowywać:
+* Lista:
+	* Obejrzany film. -> ```string``` lub ```int```
+	* Na ile ocenił film. -> ```double``` z określonego zakresu
+	* Czy skomentował film. -> ```bool```
+* Najczęściej oglądany gatunek. -> ```string``` lub ```int```
+* Najczęściej grający aktor w obejrzanych filmach. -> ```string``` lub ```int```
+
