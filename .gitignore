@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.csv
+SR1/ml/README.txt
