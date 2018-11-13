@@ -15,7 +15,7 @@
 * Raport "How to".
 * Działający program, realizujący zadanie.
 * Zaślepki modułów systemu rekomendacyjnego, związanych z pamięcią podręczną.
-
+* Zrozumienie zadania.
 
 ## TODO:
 - [ ] Obsługa:
@@ -25,6 +25,7 @@
 - [ ] Stworzenie reprezentacji profilu.
 - [ ] Komunikacja pomiędzy docker'ami a programem.
 - [ ] Komunikacja pomiędzy *Recommendation Engine* a *Profile Server*
+- [ ] Napisać swoimi słowami na czym polega zadanie/problem.
 
 
 ### Reprezentacja profilu
